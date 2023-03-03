@@ -1,0 +1,15 @@
+def -- 
+
+
+
+types of recommender system-
+1. content based RS -- recommand content on the based of similarity between content
+2. collaborative filter based RS -- it is based on user's interest or beheviour 
+3. Hybrid based RS-- hybrid of content and collaborative filtering RS 
+
+
+project flow - 
+
+
+data-->preprocessing-->model building-->convert model into --> delopy the website
+          on data                          website
